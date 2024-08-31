@@ -23,7 +23,7 @@ This project explores a dataset from a fictional bike sales business to help the
 ## Data Overview
 The dataset used for this analysis includes customer demographics, income levels, car ownership details, and commute distances. The key objective was to explore the relationship between these variables and bike purchases.
 
-### Key Columns in the Dataset:
+#### Key Columns in the Dataset:
 - **Income**: Annual income in dollars.
 - **Cars**: Number of cars owned by customer.
 - **Commute Distance**: Distance the customer commutes to work.
@@ -35,24 +35,24 @@ The dataset used for this analysis includes customer demographics, income levels
 - **Microsoft Excel**: data cleaning, analysis, and dashboard creation.
 
 ## Methodology
-### Data Cleaning and Preparation
+#### Data Cleaning and Preparation
 In the inital data preparation phase, we performed the following tasks:
 1. Removed duplicate values
 2. Handled missing values
 3. Formatted data 
 4. Categorized age into age brackets
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 The data was explored to understand the distribution of key variables such as age, income, car ownership, and commute distance. Excel's data filtering, pivot tables, and charting features were extensively used to visualize and analyze the data.
 
-### Dashboard Components
+#### Dashboard Components
 The dashboard includes four key charts:
 1. **Average Income per Purchase**: Average income per purchase and differentiating between genders.
 2. **Customer Age Bracket**: Categorized into adolescent, middle-aged, and old customers, showing their likelihood to purchase bikes.
 3. **Number of Cars Owned**: Measuring the impact of car ownership on the likelihood of purchasing a bike.
 4. **Commute Distance to Work**: Analyzing the impact of proximity to work on bike purchases.
 
-### Filters
+#### Filters
 Three filters were applied to the dashboard to allow for dynamic analysis:
 1. **Marital Status**: Married or Single.
 2. **Region**: Europe, North America, and Pacific.
