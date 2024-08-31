@@ -5,6 +5,8 @@
 
 This project explores a dataset from a fictional bike sales business to help the company better understand its customer base and identify which demographics are most likely to purchase bikes. The analysis was performed using Microsoft Excel, with a focus on creating an interactive dashboard to visualize key trends and insights.
 
+![bike-sales-dashboard-preview](https://github.com/user-attachments/assets/ff009e0c-9f93-4fc4-b4b4-d47dc6a03f79)
+
 ### Data Source
 
 The dataset used in this project contains the following columns:
