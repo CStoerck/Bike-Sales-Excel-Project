@@ -24,15 +24,15 @@ This project explores a dataset from a fictional bike sales business to help the
 The dataset used for this analysis includes customer demographics, income levels, car ownership details, and commute distances. The key objective was to explore the relationship between these variables and bike purchases.
 
 ### Key Columns in the Dataset:
-- **Income**: Customer's annual income in dollars.
-- **Cars**: Number of cars owned by the customer.
-- **Commute Distance**: The distance the customer commutes to work.
-- **Age**: The customer's age.
-- **Age Bracket**: Age category (Adolescent, Middle Age, Old).
+- **Income**: Annual income in dollars.
+- **Cars**: Number of cars owned by customer.
+- **Commute Distance**: Distance the customer commutes to work.
+- **Age**: Customer's age.
+  - **Age Bracket**: Age category (Adolescent, Middle Age, Old).
 - **Purchased Bike**: Indicates whether the customer purchased a bike.
 
 ## Tools Used
-- **Microsoft Excel**: Used for data cleaning, analysis, and dashboard creation.
+- **Microsoft Excel**: data cleaning, analysis, and dashboard creation.
 
 ## Methodology
 ### Data Cleaning and Preparation
