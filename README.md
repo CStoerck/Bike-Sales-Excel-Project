@@ -73,7 +73,7 @@ Based on the analysis, we recommend targetting marketing efforts to key demograp
 - **Middle-Aged Customers**: Craft messages that resonate with the middle-aged lifestyle. Highlight the health benefits, convenience, and eco-friendliness of biking.
 - **0-1 Car Customers**: Create a marketing campaign that specifically target households with no vehicles or just one vehicle. Emphasize the cost savings and environmental benefits of using a bike as an alternative mode of transportation.
 - **Higher Income Customers**: Develop premium bike models or partner with luxury bike brands that cater to the more affluent customers.
-- **Short Work Commute Customers**: Promote the convenience of biking for short commutes and the health benefits associated with it, particularly in urban areas where traffic congestion is a concern. Collaborate with local businesses to provide benefits for employees who bike to work.
+- **Short Commute Customers**: Promote the convenience of biking for short commutes and the health benefits associated with it, particularly in urban areas where traffic congestion is a concern. Collaborate with local businesses to provide benefits for employees who bike to work.
 
 ## References
 - **Data Source**: Fictional dataset created for the purpose of this analysis.
