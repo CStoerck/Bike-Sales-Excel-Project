@@ -20,7 +20,7 @@ This project explores a dataset from a fictional bike sales business to help the
 
 ![bike-sales-dashboard-preview](https://github.com/user-attachments/assets/ff009e0c-9f93-4fc4-b4b4-d47dc6a03f79)
 
-[Click here for the project's Excel doc](#https://github.com/CStoerck/Bike-Sales-Excel-Project/blob/389396d9d696049ba639aaf40c3a45672850fac6/Bike%20Sales%20Excel%20Project.xlsx)
+[Click here for the project's Excel doc](https://github.com/CStoerck/Bike-Sales-Excel-Project/blob/389396d9d696049ba639aaf40c3a45672850fac6/Bike%20Sales%20Excel%20Project.xlsx)
 
 ## Data Overview
 The dataset used for this analysis includes customer demographics, income levels, car ownership details, and commute distances. The key objective was to explore the relationship between these variables and bike purchases.
