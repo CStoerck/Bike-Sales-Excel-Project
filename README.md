@@ -83,3 +83,7 @@ Based on the analysis, we recommend targetting marketing efforts to key demograp
 ## Contact
 - **Cody Stoerck**: [LinkedIn](https://www.linkedin.com/in/codystoerck/) | cstoerck@gmail.com
 
+---
+
+[Click here for the project's Excel doc](https://github.com/CStoerck/Bike-Sales-Excel-Project/blob/389396d9d696049ba639aaf40c3a45672850fac6/Bike%20Sales%20Excel%20Project.xlsx)
+
